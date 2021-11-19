@@ -1,6 +1,7 @@
 /**
  * https://replit.com/@yan930521/Jiu-Gong-Ge-AI
  * 點網址 直接開始遊戲
+ * Copyright 2021 yan-930521  All Rights Reserved.
  */
 
 const readline = require('readline').createInterface({
